@@ -1,0 +1,3 @@
+git+https://github.com/mehdic213/nike-ca-monitor.py
+json
+requests

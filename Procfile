@@ -1,0 +1,1 @@
+worker: python nike-ca-monitor.py
